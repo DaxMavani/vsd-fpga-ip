@@ -14,7 +14,7 @@ To set up a clean development environment, validate a working RISC-V reference f
 
 ---
 
-## Work Completed
+## Work Completed for Task 1
 
 ### Step 1: Codespace Setup
 - Forked and launched the official `vsd-riscv2` repository using GitHub Codespaces.
