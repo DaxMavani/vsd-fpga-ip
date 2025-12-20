@@ -57,11 +57,22 @@ terminal novnc has been activated for a session
   - Completed simulation-based build successfully
 - No FPGA hardware tools were used.
 
-the hex file has been seen in the output
+the hex code has been seen in the output
+
 
 <img width="912" height="357" alt="riscv_hex" src="https://github.com/user-attachments/assets/4aa5027c-fda5-4b4c-a535-b697a0e2f7a9" />
 
 
+The banner pattern was added to the RISC-V firmware source using nano and executed using the Spike ISA simulator, with the output displayed on the terminal.
+
+
+<img width="914" height="746" alt="Screenshot 2025-12-20 150907" src="https://github.com/user-attachments/assets/a3207945-052b-4789-a274-33c45a612135" />
+
+
+There you go, the pattern is shown below as output
+
+
+<img width="730" height="597" alt="Screenshot 2025-12-20 151900" src="https://github.com/user-attachments/assets/860d503f-27bb-4cae-8c89-9e04e418cda1" />
 
 
 ### Step 4: Local Environment Preparation
